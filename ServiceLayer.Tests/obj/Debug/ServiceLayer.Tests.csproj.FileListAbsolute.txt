@@ -1,0 +1,74 @@
+C:\Users\yonut\Desktop\Restanta_ASSE\AuctionApp\ServiceLayer.Tests\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\yonut\Desktop\Restanta_ASSE\AuctionApp\ServiceLayer.Tests\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\yonut\Desktop\Restanta_ASSE\AuctionApp\ServiceLayer.Tests\bin\Debug\nunit.engine.dll
+C:\Users\yonut\Desktop\Restanta_ASSE\AuctionApp\ServiceLayer.Tests\bin\Debug\nunit.engine.api.dll
+C:\Users\yonut\Desktop\Restanta_ASSE\AuctionApp\ServiceLayer.Tests\bin\Debug\ServiceLayer.Tests.dll.config
+C:\Users\yonut\Desktop\Restanta_ASSE\AuctionApp\ServiceLayer.Tests\bin\Debug\ServiceLayer.Tests.dll
+C:\Users\yonut\Desktop\Restanta_ASSE\AuctionApp\ServiceLayer.Tests\bin\Debug\ServiceLayer.Tests.pdb
+C:\Users\yonut\Desktop\Restanta_ASSE\AuctionApp\ServiceLayer.Tests\bin\Debug\DataMapper.dll
+C:\Users\yonut\Desktop\Restanta_ASSE\AuctionApp\ServiceLayer.Tests\bin\Debug\DomainModel.dll
+C:\Users\yonut\Desktop\Restanta_ASSE\AuctionApp\ServiceLayer.Tests\bin\Debug\EntityFramework.dll
+C:\Users\yonut\Desktop\Restanta_ASSE\AuctionApp\ServiceLayer.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yonut\Desktop\Restanta_ASSE\AuctionApp\ServiceLayer.Tests\bin\Debug\FakeItEasy.dll
+C:\Users\yonut\Desktop\Restanta_ASSE\AuctionApp\ServiceLayer.Tests\bin\Debug\nunit.framework.dll
+C:\Users\yonut\Desktop\Restanta_ASSE\AuctionApp\ServiceLayer.Tests\bin\Debug\ServiceLayer.dll
+C:\Users\yonut\Desktop\Restanta_ASSE\AuctionApp\ServiceLayer.Tests\bin\Debug\StyleCop.dll
+C:\Users\yonut\Desktop\Restanta_ASSE\AuctionApp\ServiceLayer.Tests\bin\Debug\log4net.dll
+C:\Users\yonut\Desktop\Restanta_ASSE\AuctionApp\ServiceLayer.Tests\bin\Debug\FluentValidation.dll
+C:\Users\yonut\Desktop\Restanta_ASSE\AuctionApp\ServiceLayer.Tests\bin\Debug\DataMapper.pdb
+C:\Users\yonut\Desktop\Restanta_ASSE\AuctionApp\ServiceLayer.Tests\bin\Debug\DataMapper.dll.config
+C:\Users\yonut\Desktop\Restanta_ASSE\AuctionApp\ServiceLayer.Tests\bin\Debug\DomainModel.pdb
+C:\Users\yonut\Desktop\Restanta_ASSE\AuctionApp\ServiceLayer.Tests\bin\Debug\DomainModel.dll.config
+C:\Users\yonut\Desktop\Restanta_ASSE\AuctionApp\ServiceLayer.Tests\bin\Debug\ServiceLayer.pdb
+C:\Users\yonut\Desktop\Restanta_ASSE\AuctionApp\ServiceLayer.Tests\bin\Debug\EntityFramework.xml
+C:\Users\yonut\Desktop\Restanta_ASSE\AuctionApp\ServiceLayer.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yonut\Desktop\Restanta_ASSE\AuctionApp\ServiceLayer.Tests\bin\Debug\FakeItEasy.pdb
+C:\Users\yonut\Desktop\Restanta_ASSE\AuctionApp\ServiceLayer.Tests\bin\Debug\FakeItEasy.xml
+C:\Users\yonut\Desktop\Restanta_ASSE\AuctionApp\ServiceLayer.Tests\bin\Debug\nunit.framework.pdb
+C:\Users\yonut\Desktop\Restanta_ASSE\AuctionApp\ServiceLayer.Tests\bin\Debug\nunit.framework.xml
+C:\Users\yonut\Desktop\Restanta_ASSE\AuctionApp\ServiceLayer.Tests\bin\Debug\StyleCop.xml
+C:\Users\yonut\Desktop\Restanta_ASSE\AuctionApp\ServiceLayer.Tests\bin\Debug\log4net.xml
+C:\Users\yonut\Desktop\Restanta_ASSE\AuctionApp\ServiceLayer.Tests\bin\Debug\FluentValidation.xml
+C:\Users\yonut\Desktop\Restanta_ASSE\AuctionApp\ServiceLayer.Tests\obj\Debug\ServiceLayer.Tests.csprojAssemblyReference.cache
+C:\Users\yonut\Desktop\Restanta_ASSE\AuctionApp\ServiceLayer.Tests\obj\Debug\ServiceLayer.Tests.csproj.CoreCompileInputs.cache
+C:\Users\yonut\Desktop\Restanta_ASSE\AuctionApp\ServiceLayer.Tests\obj\Debug\ServiceLayer.Tests.csproj.CopyComplete
+C:\Users\yonut\Desktop\Restanta_ASSE\AuctionApp\ServiceLayer.Tests\obj\Debug\ServiceLayer.Tests.dll
+C:\Users\yonut\Desktop\Restanta_ASSE\AuctionApp\ServiceLayer.Tests\obj\Debug\ServiceLayer.Tests.pdb
+C:\Users\yonut\Desktop\Restanta_ASSE\AuctionApp\ServiceLayer.Tests\bin\Debug\ServiceLayer.dll.config
+D:\Miruna\Documents\Master\Anul 1\Sem1\AuctionApp\ServiceLayer.Tests\bin\Debug\NUnit3.TestAdapter.dll
+D:\Miruna\Documents\Master\Anul 1\Sem1\AuctionApp\ServiceLayer.Tests\bin\Debug\NUnit3.TestAdapter.pdb
+D:\Miruna\Documents\Master\Anul 1\Sem1\AuctionApp\ServiceLayer.Tests\bin\Debug\nunit.engine.dll
+D:\Miruna\Documents\Master\Anul 1\Sem1\AuctionApp\ServiceLayer.Tests\bin\Debug\nunit.engine.api.dll
+D:\Miruna\Documents\Master\Anul 1\Sem1\AuctionApp\ServiceLayer.Tests\bin\Debug\ServiceLayer.Tests.dll.config
+D:\Miruna\Documents\Master\Anul 1\Sem1\AuctionApp\ServiceLayer.Tests\bin\Debug\ServiceLayer.Tests.dll
+D:\Miruna\Documents\Master\Anul 1\Sem1\AuctionApp\ServiceLayer.Tests\bin\Debug\ServiceLayer.Tests.pdb
+D:\Miruna\Documents\Master\Anul 1\Sem1\AuctionApp\ServiceLayer.Tests\bin\Debug\DataMapper.dll
+D:\Miruna\Documents\Master\Anul 1\Sem1\AuctionApp\ServiceLayer.Tests\bin\Debug\DomainModel.dll
+D:\Miruna\Documents\Master\Anul 1\Sem1\AuctionApp\ServiceLayer.Tests\bin\Debug\EntityFramework.dll
+D:\Miruna\Documents\Master\Anul 1\Sem1\AuctionApp\ServiceLayer.Tests\bin\Debug\EntityFramework.SqlServer.dll
+D:\Miruna\Documents\Master\Anul 1\Sem1\AuctionApp\ServiceLayer.Tests\bin\Debug\FakeItEasy.dll
+D:\Miruna\Documents\Master\Anul 1\Sem1\AuctionApp\ServiceLayer.Tests\bin\Debug\nunit.framework.dll
+D:\Miruna\Documents\Master\Anul 1\Sem1\AuctionApp\ServiceLayer.Tests\bin\Debug\ServiceLayer.dll
+D:\Miruna\Documents\Master\Anul 1\Sem1\AuctionApp\ServiceLayer.Tests\bin\Debug\StyleCop.dll
+D:\Miruna\Documents\Master\Anul 1\Sem1\AuctionApp\ServiceLayer.Tests\bin\Debug\log4net.dll
+D:\Miruna\Documents\Master\Anul 1\Sem1\AuctionApp\ServiceLayer.Tests\bin\Debug\FluentValidation.dll
+D:\Miruna\Documents\Master\Anul 1\Sem1\AuctionApp\ServiceLayer.Tests\bin\Debug\DataMapper.pdb
+D:\Miruna\Documents\Master\Anul 1\Sem1\AuctionApp\ServiceLayer.Tests\bin\Debug\DataMapper.dll.config
+D:\Miruna\Documents\Master\Anul 1\Sem1\AuctionApp\ServiceLayer.Tests\bin\Debug\DomainModel.pdb
+D:\Miruna\Documents\Master\Anul 1\Sem1\AuctionApp\ServiceLayer.Tests\bin\Debug\DomainModel.dll.config
+D:\Miruna\Documents\Master\Anul 1\Sem1\AuctionApp\ServiceLayer.Tests\bin\Debug\ServiceLayer.pdb
+D:\Miruna\Documents\Master\Anul 1\Sem1\AuctionApp\ServiceLayer.Tests\bin\Debug\ServiceLayer.dll.config
+D:\Miruna\Documents\Master\Anul 1\Sem1\AuctionApp\ServiceLayer.Tests\bin\Debug\EntityFramework.xml
+D:\Miruna\Documents\Master\Anul 1\Sem1\AuctionApp\ServiceLayer.Tests\bin\Debug\EntityFramework.SqlServer.xml
+D:\Miruna\Documents\Master\Anul 1\Sem1\AuctionApp\ServiceLayer.Tests\bin\Debug\FakeItEasy.pdb
+D:\Miruna\Documents\Master\Anul 1\Sem1\AuctionApp\ServiceLayer.Tests\bin\Debug\FakeItEasy.xml
+D:\Miruna\Documents\Master\Anul 1\Sem1\AuctionApp\ServiceLayer.Tests\bin\Debug\nunit.framework.pdb
+D:\Miruna\Documents\Master\Anul 1\Sem1\AuctionApp\ServiceLayer.Tests\bin\Debug\nunit.framework.xml
+D:\Miruna\Documents\Master\Anul 1\Sem1\AuctionApp\ServiceLayer.Tests\bin\Debug\StyleCop.xml
+D:\Miruna\Documents\Master\Anul 1\Sem1\AuctionApp\ServiceLayer.Tests\bin\Debug\log4net.xml
+D:\Miruna\Documents\Master\Anul 1\Sem1\AuctionApp\ServiceLayer.Tests\bin\Debug\FluentValidation.xml
+D:\Miruna\Documents\Master\Anul 1\Sem1\AuctionApp\ServiceLayer.Tests\obj\Debug\ServiceLayer.Tests.csprojAssemblyReference.cache
+D:\Miruna\Documents\Master\Anul 1\Sem1\AuctionApp\ServiceLayer.Tests\obj\Debug\ServiceLayer.Tests.csproj.CoreCompileInputs.cache
+D:\Miruna\Documents\Master\Anul 1\Sem1\AuctionApp\ServiceLayer.Tests\obj\Debug\ServiceLayer.Tests.csproj.CopyComplete
+D:\Miruna\Documents\Master\Anul 1\Sem1\AuctionApp\ServiceLayer.Tests\obj\Debug\ServiceLayer.Tests.dll
+D:\Miruna\Documents\Master\Anul 1\Sem1\AuctionApp\ServiceLayer.Tests\obj\Debug\ServiceLayer.Tests.pdb

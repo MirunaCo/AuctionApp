@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="91568b8ccf1645598b5d52321c997e45" Name="Diagram1" >
+        <EntityTypeShape EntityType="Model1.User" Width="1.5" PointX="0.5" PointY="0.5" />
+        <EntityTypeShape EntityType="Model1.Score" Width="1.5" PointX="2.375" PointY="0.625" />
+        <EntityTypeShape EntityType="Model1.Currency" Width="1.5" PointX="4.125" PointY="0.5" />
+        <EntityTypeShape EntityType="Model1.Category" Width="1.5" PointX="4.5" PointY="3.375" />
+        <AssociationConnector Association="Model1.CategoryCategory" />
+        <EntityTypeShape EntityType="Model1.Bid" Width="1.5" PointX="2.25" PointY="3.125" />
+        <EntityTypeShape EntityType="Model1.Product" Width="1.5" PointX="7.375" PointY="0.875" />
+        <AssociationConnector Association="Model1.UserScore" />
+        <AssociationConnector Association="Model1.UserScore1" />
+        <AssociationConnector Association="Model1.UserProduct" />
+        <AssociationConnector Association="Model1.ProductCurrency" />
+        <AssociationConnector Association="Model1.CategoryProduct" />
+        <AssociationConnector Association="Model1.BidUser" />
+        <AssociationConnector Association="Model1.BidProduct" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

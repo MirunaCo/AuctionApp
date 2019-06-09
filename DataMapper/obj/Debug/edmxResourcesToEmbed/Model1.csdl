@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="Model1" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+  <EntityContainer Name="Model1Container" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Users" EntityType="Model1.User" />
+    <EntitySet Name="Scores" EntityType="Model1.Score" />
+    <EntitySet Name="Currencies" EntityType="Model1.Currency" />
+    <EntitySet Name="Categories" EntityType="Model1.Category" />
+    <AssociationSet Name="CategoryCategory" Association="Model1.CategoryCategory">
+      <End Role="Category" EntitySet="Categories" />
+      <End Role="Category1" EntitySet="Categories" />
+    </AssociationSet>
+    <EntitySet Name="Bids" EntityType="Model1.Bid" />
+    <EntitySet Name="Products" EntityType="Model1.Product" />
+    <AssociationSet Name="UserScore" Association="Model1.UserScore">
+      <End Role="User" EntitySet="Users" />
+      <End Role="Score" EntitySet="Scores" />
+    </AssociationSet>
+    <AssociationSet Name="UserScore1" Association="Model1.UserScore1">
+      <End Role="User" EntitySet="Users" />
+      <End Role="Score" EntitySet="Scores" />
+    </AssociationSet>
+    <AssociationSet Name="UserProduct" Association="Model1.UserProduct">
+      <End Role="User" EntitySet="Users" />
+      <End Role="Product" EntitySet="Products" />
+    </AssociationSet>
+    <AssociationSet Name="ProductCurrency" Association="Model1.ProductCurrency">
+      <End Role="Product" EntitySet="Products" />
+      <End Role="Currency" EntitySet="Currencies" />
+    </AssociationSet>
+    <AssociationSet Name="CategoryProduct" Association="Model1.CategoryProduct">
+      <End Role="Category" EntitySet="Categories" />
+      <End Role="Product" EntitySet="Products" />
+    </AssociationSet>
+    <AssociationSet Name="BidUser" Association="Model1.BidUser">
+      <End Role="Bid" EntitySet="Bids" />
+      <End Role="User" EntitySet="Users" />
+    </AssociationSet>
+    <AssociationSet Name="BidProduct" Association="Model1.BidProduct">
+      <End Role="Bid" EntitySet="Bids" />
+      <End Role="Product" EntitySet="Products" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Username" Type="String" Nullable="false" MaxLength="25" />
+    <Property Name="Password" Type="String" Nullable="false" MaxLength="25" />
+    <Property Name="Email" Type="String" Nullable="false" MaxLength="30" />
+    <Property Name="ScoreAverage" Type="Double" Nullable="false" />
+    <NavigationProperty Name="Score" Relationship="Model1.UserScore" FromRole="User" ToRole="Score" />
+    <NavigationProperty Name="ScoreFrom" Relationship="Model1.UserScore1" FromRole="User" ToRole="Score" />
+    <NavigationProperty Name="Product" Relationship="Model1.UserProduct" FromRole="User" ToRole="Product" />
+    <NavigationProperty Name="Bid" Relationship="Model1.BidUser" FromRole="User" ToRole="Bid" />
+  </EntityType>
+  <EntityType Name="Score">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Points" Type="Double" Nullable="false" />
+    <NavigationProperty Name="User" Relationship="Model1.UserScore" FromRole="Score" ToRole="User" />
+    <Property Name="UserIdTo" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="UserFrom" Relationship="Model1.UserScore1" FromRole="Score" ToRole="User" />
+    <Property Name="UserIdFrom" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Currency">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" Nullable="false" MaxLength="45" />
+    <Property Name="Abbreviation" Type="String" Nullable="false" MaxLength="45" />
+    <NavigationProperty Name="Product" Relationship="Model1.ProductCurrency" FromRole="Currency" ToRole="Product" />
+  </EntityType>
+  <EntityType Name="Category">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="name" Type="String" Nullable="false" MaxLength="45" />
+    <NavigationProperty Name="ParentCategory" Relationship="Model1.CategoryCategory" FromRole="Category" ToRole="Category1" />
+    <NavigationProperty Name="Categories" Relationship="Model1.CategoryCategory" FromRole="Category1" ToRole="Category" />
+    <Property Name="CategoryId" Type="Int32" Nullable="true" />
+    <NavigationProperty Name="Product" Relationship="Model1.CategoryProduct" FromRole="Category" ToRole="Product" />
+  </EntityType>
+  <Association Name="CategoryCategory">
+    <End Type="Model1.Category" Role="Category" Multiplicity="*" />
+    <End Type="Model1.Category" Role="Category1" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="Category1">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Category">
+        <PropertyRef Name="CategoryId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="Bid">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Amount" Type="Double" Nullable="false" />
+    <Property Name="Date" Type="DateTime" Nullable="false" />
+    <NavigationProperty Name="User" Relationship="Model1.BidUser" FromRole="Bid" ToRole="User" />
+    <Property Name="UserId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Product" Relationship="Model1.BidProduct" FromRole="Bid" ToRole="Product" />
+    <Property Name="ProductId" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Product">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" Nullable="false" MaxLength="50" />
+    <Property Name="Description" Type="String" Nullable="false" MaxLength="400" />
+    <Property Name="StartDate" Type="DateTime" Nullable="false" />
+    <Property Name="EndDate" Type="DateTime" Nullable="false" />
+    <Property Name="IsActive" Type="Boolean" Nullable="false" />
+    <Property Name="Price" Type="Double" Nullable="false" />
+    <NavigationProperty Name="User" Relationship="Model1.UserProduct" FromRole="Product" ToRole="User" />
+    <Property Name="UserId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Currency" Relationship="Model1.ProductCurrency" FromRole="Product" ToRole="Currency" />
+    <Property Name="CurrencyId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Category" Relationship="Model1.CategoryProduct" FromRole="Product" ToRole="Category" />
+    <Property Name="CategoryId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Bid" Relationship="Model1.BidProduct" FromRole="Product" ToRole="Bid" />
+  </EntityType>
+  <Association Name="UserScore">
+    <End Type="Model1.User" Role="User" Multiplicity="1" />
+    <End Type="Model1.Score" Role="Score" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Score">
+        <PropertyRef Name="UserIdTo" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="UserScore1">
+    <End Type="Model1.User" Role="User" Multiplicity="1" />
+    <End Type="Model1.Score" Role="Score" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Score">
+        <PropertyRef Name="UserIdFrom" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="UserProduct">
+    <End Type="Model1.User" Role="User" Multiplicity="1" />
+    <End Type="Model1.Product" Role="Product" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Product">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="ProductCurrency">
+    <End Type="Model1.Product" Role="Product" Multiplicity="*" />
+    <End Type="Model1.Currency" Role="Currency" Multiplicity="1" />
+    <ReferentialConstraint>
+      <Principal Role="Currency">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Product">
+        <PropertyRef Name="CurrencyId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="CategoryProduct">
+    <End Type="Model1.Category" Role="Category" Multiplicity="1" />
+    <End Type="Model1.Product" Role="Product" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Category">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Product">
+        <PropertyRef Name="CategoryId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="BidUser">
+    <End Type="Model1.Bid" Role="Bid" Multiplicity="*" />
+    <End Type="Model1.User" Role="User" Multiplicity="1" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Bid">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="BidProduct">
+    <End Type="Model1.Bid" Role="Bid" Multiplicity="*" />
+    <End Type="Model1.Product" Role="Product" Multiplicity="1" />
+    <ReferentialConstraint>
+      <Principal Role="Product">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Bid">
+        <PropertyRef Name="ProductId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

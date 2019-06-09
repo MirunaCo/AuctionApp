@@ -1,0 +1,110 @@
+C:\Users\Maria Simion\Documents\Visual Studio 2015\Projects\AuctionApp\DataMapper\bin\Debug\DataMapper.dll.config
+C:\Users\Maria Simion\Documents\Visual Studio 2015\Projects\AuctionApp\DataMapper\bin\Debug\DataMapper.dll
+C:\Users\Maria Simion\Documents\Visual Studio 2015\Projects\AuctionApp\DataMapper\bin\Debug\DataMapper.pdb
+C:\Users\Maria Simion\Documents\Visual Studio 2015\Projects\AuctionApp\DataMapper\bin\Debug\DomainModel.dll
+C:\Users\Maria Simion\Documents\Visual Studio 2015\Projects\AuctionApp\DataMapper\bin\Debug\EntityFramework.dll
+C:\Users\Maria Simion\Documents\Visual Studio 2015\Projects\AuctionApp\DataMapper\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Maria Simion\Documents\Visual Studio 2015\Projects\AuctionApp\DataMapper\bin\Debug\FluentValidation.dll
+C:\Users\Maria Simion\Documents\Visual Studio 2015\Projects\AuctionApp\DataMapper\bin\Debug\StyleCop.dll
+C:\Users\Maria Simion\Documents\Visual Studio 2015\Projects\AuctionApp\DataMapper\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Maria Simion\Documents\Visual Studio 2015\Projects\AuctionApp\DataMapper\bin\Debug\DomainModel.pdb
+C:\Users\Maria Simion\Documents\Visual Studio 2015\Projects\AuctionApp\DataMapper\bin\Debug\EntityFramework.xml
+C:\Users\Maria Simion\Documents\Visual Studio 2015\Projects\AuctionApp\DataMapper\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Maria Simion\Documents\Visual Studio 2015\Projects\AuctionApp\DataMapper\bin\Debug\FluentValidation.xml
+C:\Users\Maria Simion\Documents\Visual Studio 2015\Projects\AuctionApp\DataMapper\bin\Debug\StyleCop.xml
+C:\Users\Maria Simion\Documents\Visual Studio 2015\Projects\AuctionApp\DataMapper\obj\Debug\DataMapper.csprojResolveAssemblyReference.cache
+C:\Users\Maria Simion\Documents\Visual Studio 2015\Projects\AuctionApp\DataMapper\obj\Debug\DataMapper.dll
+C:\Users\Maria Simion\Documents\Visual Studio 2015\Projects\AuctionApp\DataMapper\obj\Debug\DataMapper.pdb
+E:\Facultate\ProiectASSE\AuctionApp\DataMapper\bin\Debug\DataMapper.dll.config
+E:\Facultate\ProiectASSE\AuctionApp\DataMapper\bin\Debug\DataMapper.dll
+E:\Facultate\ProiectASSE\AuctionApp\DataMapper\bin\Debug\DataMapper.pdb
+E:\Facultate\ProiectASSE\AuctionApp\DataMapper\bin\Debug\DomainModel.dll
+E:\Facultate\ProiectASSE\AuctionApp\DataMapper\bin\Debug\EntityFramework.dll
+E:\Facultate\ProiectASSE\AuctionApp\DataMapper\bin\Debug\EntityFramework.SqlServer.dll
+E:\Facultate\ProiectASSE\AuctionApp\DataMapper\bin\Debug\FluentValidation.dll
+E:\Facultate\ProiectASSE\AuctionApp\DataMapper\bin\Debug\StyleCop.dll
+E:\Facultate\ProiectASSE\AuctionApp\DataMapper\bin\Debug\System.ComponentModel.Primitives.dll
+E:\Facultate\ProiectASSE\AuctionApp\DataMapper\bin\Debug\DomainModel.pdb
+E:\Facultate\ProiectASSE\AuctionApp\DataMapper\bin\Debug\EntityFramework.xml
+E:\Facultate\ProiectASSE\AuctionApp\DataMapper\bin\Debug\EntityFramework.SqlServer.xml
+E:\Facultate\ProiectASSE\AuctionApp\DataMapper\bin\Debug\FluentValidation.xml
+E:\Facultate\ProiectASSE\AuctionApp\DataMapper\bin\Debug\StyleCop.xml
+E:\Facultate\ProiectASSE\AuctionApp\DataMapper\obj\Debug\DataMapper.csprojResolveAssemblyReference.cache
+E:\Facultate\ProiectASSE\AuctionApp\DataMapper\obj\Debug\DataMapper.dll
+E:\Facultate\ProiectASSE\AuctionApp\DataMapper\obj\Debug\DataMapper.pdb
+E:\Facultate\ProiectASSE\AuctionApp\DataMapper\bin\Debug\log4net.dll
+E:\Facultate\ProiectASSE\AuctionApp\DataMapper\bin\Debug\log4net.xml
+C:\Users\yonut\Desktop\New folder\AuctionApp\DataMapper\obj\Debug\DataMapper.csprojAssemblyReference.cache
+C:\Users\yonut\Desktop\New folder\AuctionApp\DataMapper\obj\Debug\DataMapper.csproj.CoreCompileInputs.cache
+C:\Users\yonut\Desktop\New folder\AuctionApp\DataMapper\obj\Debug\DataMapper.dll
+C:\Users\yonut\Desktop\New folder\AuctionApp\DataMapper\obj\Debug\DataMapper.pdb
+C:\Users\yonut\Desktop\New folder\AuctionApp\DataMapper\bin\Debug\DataMapper.dll.config
+C:\Users\yonut\Desktop\New folder\AuctionApp\DataMapper\bin\Debug\DataMapper.dll
+C:\Users\yonut\Desktop\New folder\AuctionApp\DataMapper\bin\Debug\DataMapper.pdb
+C:\Users\yonut\Desktop\New folder\AuctionApp\DataMapper\bin\Debug\DomainModel.dll
+C:\Users\yonut\Desktop\New folder\AuctionApp\DataMapper\bin\Debug\EntityFramework.dll
+C:\Users\yonut\Desktop\New folder\AuctionApp\DataMapper\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yonut\Desktop\New folder\AuctionApp\DataMapper\bin\Debug\FluentValidation.dll
+C:\Users\yonut\Desktop\New folder\AuctionApp\DataMapper\bin\Debug\log4net.dll
+C:\Users\yonut\Desktop\New folder\AuctionApp\DataMapper\bin\Debug\StyleCop.dll
+C:\Users\yonut\Desktop\New folder\AuctionApp\DataMapper\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\yonut\Desktop\New folder\AuctionApp\DataMapper\bin\Debug\DomainModel.pdb
+C:\Users\yonut\Desktop\New folder\AuctionApp\DataMapper\bin\Debug\DomainModel.dll.config
+C:\Users\yonut\Desktop\New folder\AuctionApp\DataMapper\bin\Debug\EntityFramework.xml
+C:\Users\yonut\Desktop\New folder\AuctionApp\DataMapper\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yonut\Desktop\New folder\AuctionApp\DataMapper\bin\Debug\FluentValidation.xml
+C:\Users\yonut\Desktop\New folder\AuctionApp\DataMapper\bin\Debug\log4net.xml
+C:\Users\yonut\Desktop\New folder\AuctionApp\DataMapper\bin\Debug\StyleCop.xml
+C:\Users\yonut\Desktop\New folder\AuctionApp\DataMapper\obj\Debug\DataMapper.csproj.CopyComplete
+C:\Users\yonut\Desktop\Restanta_ASSE\AuctionApp\DataMapper\bin\Debug\DataMapper.dll.config
+C:\Users\yonut\Desktop\Restanta_ASSE\AuctionApp\DataMapper\bin\Debug\DataMapper.dll
+C:\Users\yonut\Desktop\Restanta_ASSE\AuctionApp\DataMapper\bin\Debug\DataMapper.pdb
+C:\Users\yonut\Desktop\Restanta_ASSE\AuctionApp\DataMapper\bin\Debug\DomainModel.dll
+C:\Users\yonut\Desktop\Restanta_ASSE\AuctionApp\DataMapper\bin\Debug\EntityFramework.dll
+C:\Users\yonut\Desktop\Restanta_ASSE\AuctionApp\DataMapper\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yonut\Desktop\Restanta_ASSE\AuctionApp\DataMapper\bin\Debug\FluentValidation.dll
+C:\Users\yonut\Desktop\Restanta_ASSE\AuctionApp\DataMapper\bin\Debug\log4net.dll
+C:\Users\yonut\Desktop\Restanta_ASSE\AuctionApp\DataMapper\bin\Debug\StyleCop.dll
+C:\Users\yonut\Desktop\Restanta_ASSE\AuctionApp\DataMapper\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\yonut\Desktop\Restanta_ASSE\AuctionApp\DataMapper\bin\Debug\DomainModel.pdb
+C:\Users\yonut\Desktop\Restanta_ASSE\AuctionApp\DataMapper\bin\Debug\DomainModel.dll.config
+C:\Users\yonut\Desktop\Restanta_ASSE\AuctionApp\DataMapper\bin\Debug\EntityFramework.xml
+C:\Users\yonut\Desktop\Restanta_ASSE\AuctionApp\DataMapper\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yonut\Desktop\Restanta_ASSE\AuctionApp\DataMapper\bin\Debug\FluentValidation.xml
+C:\Users\yonut\Desktop\Restanta_ASSE\AuctionApp\DataMapper\bin\Debug\log4net.xml
+C:\Users\yonut\Desktop\Restanta_ASSE\AuctionApp\DataMapper\bin\Debug\StyleCop.xml
+C:\Users\yonut\Desktop\Restanta_ASSE\AuctionApp\DataMapper\obj\Debug\DataMapper.csprojAssemblyReference.cache
+C:\Users\yonut\Desktop\Restanta_ASSE\AuctionApp\DataMapper\obj\Debug\DataMapper.csproj.CoreCompileInputs.cache
+C:\Users\yonut\Desktop\Restanta_ASSE\AuctionApp\DataMapper\obj\Debug\DataMapper.csproj.CopyComplete
+C:\Users\yonut\Desktop\Restanta_ASSE\AuctionApp\DataMapper\obj\Debug\DataMapper.dll
+C:\Users\yonut\Desktop\Restanta_ASSE\AuctionApp\DataMapper\obj\Debug\DataMapper.pdb
+C:\Users\yonut\Desktop\Restanta_ASSE\AuctionApp\DataMapper\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\yonut\Desktop\Restanta_ASSE\AuctionApp\DataMapper\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\yonut\Desktop\Restanta_ASSE\AuctionApp\DataMapper\bin\Debug\nunit.engine.dll
+C:\Users\yonut\Desktop\Restanta_ASSE\AuctionApp\DataMapper\bin\Debug\nunit.engine.api.dll
+D:\Miruna\Documents\Master\Anul 1\Sem1\AuctionApp\DataMapper\bin\Debug\NUnit3.TestAdapter.dll
+D:\Miruna\Documents\Master\Anul 1\Sem1\AuctionApp\DataMapper\bin\Debug\NUnit3.TestAdapter.pdb
+D:\Miruna\Documents\Master\Anul 1\Sem1\AuctionApp\DataMapper\bin\Debug\nunit.engine.dll
+D:\Miruna\Documents\Master\Anul 1\Sem1\AuctionApp\DataMapper\bin\Debug\nunit.engine.api.dll
+D:\Miruna\Documents\Master\Anul 1\Sem1\AuctionApp\DataMapper\bin\Debug\DataMapper.dll.config
+D:\Miruna\Documents\Master\Anul 1\Sem1\AuctionApp\DataMapper\bin\Debug\DataMapper.dll
+D:\Miruna\Documents\Master\Anul 1\Sem1\AuctionApp\DataMapper\bin\Debug\DataMapper.pdb
+D:\Miruna\Documents\Master\Anul 1\Sem1\AuctionApp\DataMapper\bin\Debug\DomainModel.dll
+D:\Miruna\Documents\Master\Anul 1\Sem1\AuctionApp\DataMapper\bin\Debug\EntityFramework.dll
+D:\Miruna\Documents\Master\Anul 1\Sem1\AuctionApp\DataMapper\bin\Debug\EntityFramework.SqlServer.dll
+D:\Miruna\Documents\Master\Anul 1\Sem1\AuctionApp\DataMapper\bin\Debug\FluentValidation.dll
+D:\Miruna\Documents\Master\Anul 1\Sem1\AuctionApp\DataMapper\bin\Debug\log4net.dll
+D:\Miruna\Documents\Master\Anul 1\Sem1\AuctionApp\DataMapper\bin\Debug\StyleCop.dll
+D:\Miruna\Documents\Master\Anul 1\Sem1\AuctionApp\DataMapper\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Miruna\Documents\Master\Anul 1\Sem1\AuctionApp\DataMapper\bin\Debug\DomainModel.pdb
+D:\Miruna\Documents\Master\Anul 1\Sem1\AuctionApp\DataMapper\bin\Debug\DomainModel.dll.config
+D:\Miruna\Documents\Master\Anul 1\Sem1\AuctionApp\DataMapper\bin\Debug\EntityFramework.xml
+D:\Miruna\Documents\Master\Anul 1\Sem1\AuctionApp\DataMapper\bin\Debug\EntityFramework.SqlServer.xml
+D:\Miruna\Documents\Master\Anul 1\Sem1\AuctionApp\DataMapper\bin\Debug\FluentValidation.xml
+D:\Miruna\Documents\Master\Anul 1\Sem1\AuctionApp\DataMapper\bin\Debug\log4net.xml
+D:\Miruna\Documents\Master\Anul 1\Sem1\AuctionApp\DataMapper\bin\Debug\StyleCop.xml
+D:\Miruna\Documents\Master\Anul 1\Sem1\AuctionApp\DataMapper\obj\Debug\DataMapper.csprojAssemblyReference.cache
+D:\Miruna\Documents\Master\Anul 1\Sem1\AuctionApp\DataMapper\obj\Debug\DataMapper.csproj.CoreCompileInputs.cache
+D:\Miruna\Documents\Master\Anul 1\Sem1\AuctionApp\DataMapper\obj\Debug\DataMapper.csproj.CopyComplete
+D:\Miruna\Documents\Master\Anul 1\Sem1\AuctionApp\DataMapper\obj\Debug\DataMapper.dll
+D:\Miruna\Documents\Master\Anul 1\Sem1\AuctionApp\DataMapper\obj\Debug\DataMapper.pdb
